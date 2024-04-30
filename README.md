@@ -3,7 +3,7 @@
 Meu nome é Matheus
 
 - Estou cursando 3°Ano do Ensino Médio
-- Estudando na Alura
+- Estudando na [Alura](https://www.alura.com.br)
 
 ### Entre em contato caso precise 📫
 
